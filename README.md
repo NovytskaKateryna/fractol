@@ -6,8 +6,8 @@ This is a small fractal exploration program.
 <img width="771" alt="screen shot 2018-07-08 at 7 12 39 pm" src="https://user-images.githubusercontent.com/36333370/42421737-28bdf4a2-82e3-11e8-8b56-fc0fbd227ace.png">
 
 ### skills ###
-optimization using library Pthread (Multi-threading implementation)
-mathematical notion of complex numbers
+- optimization using library Pthread (Multi-threading implementation)
+- mathematical notion of complex numbers
 
 ### usage ###
 ./fractol [fractal name]
